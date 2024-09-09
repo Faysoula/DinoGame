@@ -1,0 +1,1 @@
+A simple clonish version of the popular Chrome Dino game, developed using Python and Pygame. This project replicates the iconic offline game that appears in the Google Chrome browser when there is no internet connection obviously the faysal way with diffrent images and mechanics.
